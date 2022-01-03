@@ -1,0 +1,52 @@
+    header {
+        height: 3rem;
+        background-color: rgb(84, 41, 114);
+        color: rgb(253, 253, 253);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    input[type=text] {
+        box-sizing: border-box;
+        width: 50%;
+        height: 1.9rem;
+        display: flex;
+        justify-content: center;
+        margin-top: 1rem;
+        margin-left: 25rem;
+        /* background-image: url('Searchicon.jpg'); */
+    }
+    
+    .all_image {
+        margin-top: 1.5rem;
+        display: flex;
+        justify-content: space-between;
+        margin-right: 1.5rem;
+        margin-left: 1.5rem;
+    }
+    
+    .IRONMAN-1 {
+        text-align: center;
+    }
+    
+    .IRONMAN-2 {
+        text-align: center;
+    }
+    
+    .IRONMAN-3 {
+        text-align: center;
+    }
+    
+    .JUSTICE_LEGUE {
+        text-align: center;
+    }
+    
+    footer {
+        background-color: black;
+        color: white;
+        text-align: center;
+        height: 1.4rem;
+        padding: 0.8rem;
+        font-size: 1.35rem;
+    }
